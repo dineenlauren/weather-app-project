@@ -1,0 +1,16 @@
+html,
+body {
+	height: 100% !important;
+	margin: 0 !important;
+	background: linear-gradient(to top right, #115DA3, #4ECFED);
+}
+
+
+body {
+	display: flex;
+	flex-direction: column;
+}
+
+#app {
+	flex: 1 0 auto;
+}
